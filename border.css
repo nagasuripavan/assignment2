@@ -1,0 +1,13 @@
+.border{
+    display: flex;
+    border: 2px solid black;
+    display:inline-flex;
+    
+
+}
+.ul{
+    margin-left: 50px;
+}
+.ol{
+    margin-left: 50px;
+}
